@@ -1,0 +1,11 @@
+{
+    "profiles": [
+        {
+            "name": "Aopen Tablet",
+            "width": 1024,
+            "height": 768,
+            "builtIn": false,
+            "fw": "touch"
+        }
+    ]
+}

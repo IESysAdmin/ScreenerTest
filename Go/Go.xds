@@ -1,0 +1,52 @@
+{
+    "name": "Go",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.2.67",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Aopen Tablet",
+                "builtIn": false,
+                "height": 768,
+                "width": 1024
+            },
+            "viewportOrientation": "landscape"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app"
+        }
+    },
+    "xdsVersion": "3.0.2",
+    "xdsBuild": 1375,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "127c9ba4-1da0-4add-8d74-34ad5d67b2fb"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "e3b0f33f-37c1-4497-a718-c7de97c33058",
+            "64ac3ee9-ff9a-4b7f-9407-00c7f44598cd"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "Ext.Container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "MyContainer",
+        "scrollable": "both"
+    },
+    "designerId": "127c9ba4-1da0-4add-8d74-34ad5d67b2fb",
+    "cn": [
+        {
+            "type": "Ext.Img",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "height": 1200,
+                "src": "http://www.fossiltoys.com/monitor/monitor4.gif",
+                "width": 1600
+            },
+            "designerId": "81d15f53-1d1b-41a0-b603-120f9fc6ad99"
+        }
+    ]
+}
