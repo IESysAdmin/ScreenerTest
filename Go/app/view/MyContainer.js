@@ -17,6 +17,7 @@ Ext.define('MyApp.view.MyContainer', {
     extend: 'Ext.Container',
 
     requires: [
+        'Ext.carousel.Carousel',
         'Ext.Img'
     ],
 
@@ -24,10 +25,27 @@ Ext.define('MyApp.view.MyContainer', {
         scrollable: 'both',
         items: [
             {
-                xtype: 'image',
-                height: 1200,
-                width: 1600,
-                src: 'http://www.fossiltoys.com/monitor/monitor4.gif'
+                xtype: 'carousel',
+                items: [
+                    {
+                        xtype: 'image',
+                        height: 201,
+                        width: 201,
+                        src: 'http://instasrc.com/1366x768'
+                    },
+                    {
+                        xtype: 'image',
+                        height: 201,
+                        width: 201,
+                        src: 'http://instasrc.com/1366x768'
+                    },
+                    {
+                        xtype: 'image',
+                        height: 201,
+                        width: 201,
+                        src: 'http://instasrc.com/1366x768'
+                    }
+                ]
             }
         ]
     }
