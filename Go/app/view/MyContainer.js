@@ -29,20 +29,14 @@ Ext.define('MyApp.view.MyContainer', {
                 items: [
                     {
                         xtype: 'image',
-                        height: 480,
-                        width: 640,
                         src: 'http://placehold.it/1366x768/ffff00'
                     },
                     {
                         xtype: 'image',
-                        height: 480,
-                        width: 640,
                         src: 'http://placehold.it/1366x768/00ffff'
                     },
                     {
                         xtype: 'image',
-                        height: 480,
-                        width: 640,
                         src: 'http://placehold.it/1366x768/ff00ff'
                     }
                 ]
