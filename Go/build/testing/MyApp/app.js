@@ -58985,6 +58985,8 @@ Ext.define('MyApp.view.MyContainer', {
       
 
     config: {
+        fullscreen: true,
+        layout: 'card',
         scrollable: 'both',
         items: [
             {
@@ -58992,20 +58994,14 @@ Ext.define('MyApp.view.MyContainer', {
                 items: [
                     {
                         xtype: 'image',
-                        height: 201,
-                        width: 201,
                         src: 'http://instasrc.com/1366x768'
                     },
                     {
                         xtype: 'image',
-                        height: 201,
-                        width: 201,
                         src: 'http://instasrc.com/1366x768'
                     },
                     {
                         xtype: 'image',
-                        height: 201,
-                        width: 201,
                         src: 'http://instasrc.com/1366x768'
                     }
                 ]

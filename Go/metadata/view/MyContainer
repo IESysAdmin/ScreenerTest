@@ -8,6 +8,8 @@
     "userConfig": {
         "designer|initialView": true,
         "designer|userClassName": "MyContainer",
+        "fullscreen": true,
+        "layout": "card",
         "scrollable": "both"
     },
     "designerId": "127c9ba4-1da0-4add-8d74-34ad5d67b2fb",
@@ -29,9 +31,9 @@
                     },
                     "codeClass": null,
                     "userConfig": {
-                        "height": 201,
+                        "height": null,
                         "src": "http://instasrc.com/1366x768",
-                        "width": 201
+                        "width": null
                     },
                     "designerId": "fb7fa08f-0022-4168-8ccc-05615a766c87"
                 },
@@ -43,9 +45,9 @@
                     },
                     "codeClass": null,
                     "userConfig": {
-                        "height": 201,
+                        "height": null,
                         "src": "http://instasrc.com/1366x768",
-                        "width": 201
+                        "width": null
                     },
                     "designerId": "ba0cb000-54cc-4e09-8a18-e14ebb41cc53"
                 },
@@ -57,9 +59,9 @@
                     },
                     "codeClass": null,
                     "userConfig": {
-                        "height": 201,
+                        "height": null,
                         "src": "http://instasrc.com/1366x768",
-                        "width": 201
+                        "width": null
                     },
                     "designerId": "010fb087-a515-4a08-ba48-f8cfc7908fe2"
                 }
