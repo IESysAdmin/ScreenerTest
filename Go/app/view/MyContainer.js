@@ -22,24 +22,28 @@ Ext.define('MyApp.view.MyContainer', {
     ],
 
     config: {
-        fullscreen: true,
         layout: 'card',
-        scrollable: 'both',
         items: [
             {
                 xtype: 'carousel',
                 items: [
                     {
                         xtype: 'image',
-                        src: 'http://instasrc.com/1366x768'
+                        height: 480,
+                        width: 640,
+                        src: 'http://placehold.it/1366x768/ffff00'
                     },
                     {
                         xtype: 'image',
-                        src: 'http://instasrc.com/1366x768'
+                        height: 480,
+                        width: 640,
+                        src: 'http://placehold.it/1366x768/00ffff'
                     },
                     {
                         xtype: 'image',
-                        src: 'http://instasrc.com/1366x768'
+                        height: 480,
+                        width: 640,
+                        src: 'http://placehold.it/1366x768/ff00ff'
                     }
                 ]
             }
